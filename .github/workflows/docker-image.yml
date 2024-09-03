@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: <taanupal10>/guestbook-go:latest
+          tags: taanupal10/guestbook-go:latest
